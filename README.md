@@ -8,6 +8,8 @@ Join our [Slack channel](https://smartninjaworkspace.slack.com). Email me for an
   - [General Web Development](#web-development)
     - [Online Code Editors](#html-easy)
     - [Web Development Documentation](#web-development-documentation)
+  - [Javascript](#javascript)
+    -[Tutorials and Learning Resources](#tutorials-and-learning-resources)
 
 ## General Web Development
 
@@ -34,3 +36,9 @@ Join our [Slack channel](https://smartninjaworkspace.slack.com). Email me for an
 * [Can I Use](http://caniuse.com/)
 
   Browser support for HTML, CSS3 and JavaScript.
+
+### Javascript
+
+### Tutorials and Learning Resources
+
+* [JavaScript for the Web](https://sabe.io/classes/javascript)
