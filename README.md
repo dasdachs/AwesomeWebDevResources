@@ -9,7 +9,7 @@ Join our [Slack channel](https://smartninjaworkspace.slack.com). Email me for an
     - [Online Code Editors](#html-easy)
     - [Web Development Documentation](#web-development-documentation)
   - [Javascript](#javascript)
-    -[Tutorials and Learning Resources](#tutorials-and-learning-resources)
+    - [Tutorials and Learning Resources](#tutorials-and-learning-resources)
 
 ## General Web Development
 
